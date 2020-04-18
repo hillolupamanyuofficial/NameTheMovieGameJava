@@ -1,0 +1,55 @@
+Welcome to Guess the movie Game!!!
+Please read the instructions before playing
+And your Game Starts now!!!
+
+You are Guessing : --- ---------
+guess a letter : 
+T
+You have guessed (0) wrong letters :
+t-- -----t---
+guess a letter : 
+h
+You have guessed (0) wrong letters :
+th- -----th--
+guess a letter : 
+e
+You have guessed (0) wrong letters :
+the -----the-
+guess a letter : 
+q
+You have guessed (1) wrong letters :q,
+the -----the-
+guess a letter : 
+w
+You have guessed (2) wrong letters :q,w,
+the -----the-
+guess a letter : 
+g
+You have guessed (2) wrong letters :q,w,
+the g----the-
+guess a letter : 
+o
+You have guessed (2) wrong letters :q,w,
+the go---the-
+guess a letter : 
+d
+You have guessed (2) wrong letters :q,w,
+the god--the-
+guess a letter : 
+f
+You have guessed (2) wrong letters :q,w,
+the godf-the-
+guess a letter : 
+a
+You have guessed (2) wrong letters :q,w,
+the godfathe-
+guess a letter : 
+y
+You have guessed (3) wrong letters :q,w,y,
+the godfathe-
+guess a letter : 
+r
+You have guessed (3) wrong letters :q,w,y,
+the godfather
+Congrats You have won the game :) !!!
+
